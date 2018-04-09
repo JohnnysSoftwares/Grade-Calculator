@@ -1,8 +1,8 @@
-Program Name: Grade Calculator
-Platforms: Windows, Unix, Mac OS
-Author: Johnny Shumway
-Document Last Edited: 04/09/18 - Monday, April 09, 2018
-Product License: GNU GPL (https://www.gnu.org/licenses/gpl-3.0.en.html) [License also displayed below!]
+# Program Name: Grade Calculator
+# Platforms: Windows, Unix, Mac OS
+# Author: Johnny Shumway
+# Document Last Edited: 04/09/18 - Monday, April 09, 2018
+# Product License: GNU GPL (https://www.gnu.org/licenses/gpl-3.0.en.html) [License also displayed below!]
 
 # Grade-Calculator
 This is a simple grade calculator project. I made this for teachers who would like a faster way of grading assignments.
